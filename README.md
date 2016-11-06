@@ -2,6 +2,9 @@
 
 MenuSlack is HTTP Web Service API which collects lunch menus from Vallila area in Helsinki.
 
+Problem: Way too often the lunch time is starting but nobydy knows where the heck should we go eat?
+Insight: Easy and quick way to check menus in one view
+
 Uses JAX-WS Java web service libraries and JSoup HTML parser libraries
 
 ## Getting Started
